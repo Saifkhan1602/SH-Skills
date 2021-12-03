@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/SH-Skills/static/css/main.eceef776.chunk.css",
-    "main.js": "/SH-Skills/static/js/main.2cc0d74b.chunk.js",
-    "main.js.map": "/SH-Skills/static/js/main.2cc0d74b.chunk.js.map",
+    "main.css": "/SH-Skills/static/css/main.a616a076.chunk.css",
+    "main.js": "/SH-Skills/static/js/main.5eaffd77.chunk.js",
+    "main.js.map": "/SH-Skills/static/js/main.5eaffd77.chunk.js.map",
     "runtime-main.js": "/SH-Skills/static/js/runtime-main.7586f66c.js",
     "runtime-main.js.map": "/SH-Skills/static/js/runtime-main.7586f66c.js.map",
     "static/js/2.43c14c4d.chunk.js": "/SH-Skills/static/js/2.43c14c4d.chunk.js",
     "static/js/2.43c14c4d.chunk.js.map": "/SH-Skills/static/js/2.43c14c4d.chunk.js.map",
     "index.html": "/SH-Skills/index.html",
-    "static/css/main.eceef776.chunk.css.map": "/SH-Skills/static/css/main.eceef776.chunk.css.map",
+    "static/css/main.a616a076.chunk.css.map": "/SH-Skills/static/css/main.a616a076.chunk.css.map",
     "static/js/2.43c14c4d.chunk.js.LICENSE.txt": "/SH-Skills/static/js/2.43c14c4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7586f66c.js",
     "static/js/2.43c14c4d.chunk.js",
-    "static/css/main.eceef776.chunk.css",
-    "static/js/main.2cc0d74b.chunk.js"
+    "static/css/main.a616a076.chunk.css",
+    "static/js/main.5eaffd77.chunk.js"
   ]
 }
